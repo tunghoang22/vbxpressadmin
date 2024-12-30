@@ -3,7 +3,7 @@
     <div class="site-menubar-header" style="padding: 0;">
       <div class="logo-header">
         <img
-            src="@/assets/img/logo-nde.png"
+            src="@/assets/img/logo-vb.jpg"
             class="logo" style="height: 56px; width: 100%;"
           />
       </div>
